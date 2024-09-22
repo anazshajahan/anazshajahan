@@ -1,13 +1,11 @@
-# **Anaz Shajahan**  
-🌍 *Digital Nomad & Full-Stack Solution Architect*  
-
----
-
+<!-- Masterhead -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" alt="Banner" width="800" />
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Masterhead" width="800" />
 </p>
 
-### 👋 Hello there! I'm **Anaz Shajahan**, passionate about crafting scalable and resilient systems. My expertise spans across **Microservices**, **Cloud-Native Applications**, and Full-Stack Development. I'm on a journey to solve real-world problems through tech, while exploring the world as a digital nomad! 🌏
+<h1 align = "center">Hi 👋, I'm Anaz Shajahan</h1>
+
+<p align="left">👋 Hello there! I'm Anaz Shajahan, passionate about crafting scalable and resilient systems. My expertise spans across Microservices, Cloud-Native Applications, and Full-Stack Development. I'm on a journey to solve real-world problems through tech, while exploring the world as a digital nomad! 🌏 </p>
 
 ---
 

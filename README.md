@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Anaz Shajahan</h1>
 
-<p align="left">👋 Hello there! I'm Anaz Shajahan, passionate about crafting scalable and resilient systems. My expertise spans across Microservices, Cloud-Native Applications, and Full-Stack Development. I'm on a journey to solve real-world problems through tech while exploring the world as a digital nomad! 🌏 </p>
+<p align="left">Hello there! I'm Anaz Shajahan, passionate about crafting scalable and resilient systems. My expertise spans across Microservices, Cloud-Native Applications, and Full-Stack Development. I'm on a journey to solve real-world problems through tech while exploring the world as a digital nomad! 🌏 </p>
 
 ---
 

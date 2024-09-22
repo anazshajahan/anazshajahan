@@ -5,8 +5,9 @@
 
 ![Banner](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)
 
+<!-- Adjusted Banner Size -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Coding GIF" width="200" align="right" /> <!-- Optional GIF -->
+  <img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" alt="Banner" width="800" />
 </p>
 
 ### 👋 Hello there! I'm **Anaz Shajahan**, passionate about crafting scalable and resilient systems. My expertise spans across **Microservices**, **Cloud-Native Applications**, and Full-Stack Development. I'm on a journey to solve real-world problems through tech, while exploring the world as a digital nomad! 🌏

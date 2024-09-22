@@ -3,7 +3,11 @@
 
 ---
 
-![Digital Nomad](https://user-images.githubusercontent.com/123456/placeholder-digital-nomad-banner.png)
+![Banner](https://user-images.githubusercontent.com/123456/placeholder-banner.png) <!-- Replace this with your actual banner image URL -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Coding GIF" width="200" align="right" /> <!-- Replace with a relevant coding GIF -->
+</p>
 
 ### 👋 Hello there! I'm **Anaz Shajahan**, passionate about crafting scalable and resilient systems. My expertise spans across **Microservices**, **Cloud-Native Applications**, and Full-Stack Development. I'm on a journey to solve real-world problems through tech, while exploring the world as a digital nomad! 🌏
 
